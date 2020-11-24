@@ -9,7 +9,7 @@ $('#Mostrar').click(function(){
        var val = $("#inefect option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark" style="font-size: 2.4vw" > '+nombre+'</h1>');
+    $('#titulouno').html('<h1 class="card-title tlt text-dark" style="font-size: 4.0vh" > '+nombre+'</h1>');
     textille(val, cargo);   
 
 });
@@ -25,7 +25,7 @@ $('#Mostrar2').click(function(){
        var val = $("#inefect2 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -40,7 +40,7 @@ $('#Mostrar3').click(function(){
        var val = $("#inefect3 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -55,7 +55,7 @@ $('#Mostrar4').click(function(){
        var val = $("#inefect4 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -70,7 +70,7 @@ $('#Mostrar5').click(function(){
        var val = $("#inefect5 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -85,7 +85,7 @@ $('#Mostrar6').click(function(){
        var val = $("#inefect6 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -100,7 +100,7 @@ $('#Mostrar7').click(function(){
        var val = $("#inefect7 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -115,7 +115,7 @@ $('#Mostrar8').click(function(){
        var val = $("#inefect8 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -130,7 +130,7 @@ $('#Mostrar9').click(function(){
        var val = $("#inefect9 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -145,7 +145,7 @@ $('#Mostrar10').click(function(){
        var val = $("#inefect10 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -160,7 +160,7 @@ $('#Mostrar11').click(function(){
        var val = $("#inefect11 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
@@ -175,7 +175,7 @@ $('#Mostrar12').click(function(){
        var val = $("#inefect12 option:selected").val();
     
     
-    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 2.4vw"> '+nombre+'</h1>');   
+    $('#titulouno').html('<h1 class="card-title tlt text-dark"  style="font-size: 4.0vh"> '+nombre+'</h1>');   
     textille(val, cargo);   
     
 });
