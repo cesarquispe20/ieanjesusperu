@@ -1,4 +1,12 @@
 .morphext > .animated {
     display: inline-block;
 }
-
+.image-bg{
+    padding-top: 10px;
+    width: 100%;
+    height: 24vh;
+    background-image: url('../image/tercio-b.svg');
+    background-size: 100% 23vh;
+    background-repeat: no-repeat;
+    background-color: green;
+}
