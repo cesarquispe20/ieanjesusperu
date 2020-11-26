@@ -1,3 +1,8 @@
+@font-face {
+    font-family:'swissek';
+    src: url(../font/swissek.ttf) format("opentype");
+}
+
 .morphext > .animated {
     display: inline-block;
 }
@@ -8,5 +13,5 @@
     background-image: url('../image/tercio-b.svg');
     background-size: 100% 23vh;
     background-repeat: no-repeat;
-    background-color: green;
+    
 }
